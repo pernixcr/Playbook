@@ -18,7 +18,7 @@ Ser la mejor opción para que nuestros clientes formen una relación de por vida
 * Aprendizaje
 * Colaboración
 
-Puede [leer más del significado de cada uno de nuestros valores](/)
+Puede [leer más del significado de cada uno de nuestros valores](guides/values.md)
 
 ## Nuevos colaboradores
 * [Previo al ingreso](recruiting/before_onboarding.md)
