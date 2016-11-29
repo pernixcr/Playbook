@@ -18,9 +18,12 @@
 
 ## Aprendizaje
 Sabemos que nadie nace aprendido, por lo tanto:
+
 * contamos con los mejores **mentores**
 * damos **espacio semanal** para aprender algo nuevo
 * contamos con **herramientas** que nos mantienen siempre a la vanguardia del conocimiento.
 
 ## Colaboración
-Un equipo es nuestra base de trabajo, por eso nos enfocamos en la gente. Creemos en la **colaboración diaria con nuestros clientes** y contamos una oficina **abierta a la discusión y a la colaboración**.
+* Un equipo es nuestra base de trabajo, por eso **nos enfocamos en la gente.**
+* Creemos en la **colaboración diaria con nuestros clientes**
+* Contamos con una oficina **abierta a la discusión y a la colaboración**.
