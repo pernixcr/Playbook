@@ -1,7 +1,7 @@
 # Actividades
 
 ## Townhall
-Es una reunión semanal enfocada en motivación, liderazgo y actualización de nuestro personal. Se realiza todos todos los Lunes a medio día y Pernix invita al almuerzo.
+Es una reunión semanal enfocada en motivación, liderazgo y actualización de nuestro personal. Se realiza todos los lunes a medio día y Pernix invita al almuerzo.
 
 La agenda para esta reunión es la siguiente:
 
@@ -11,39 +11,39 @@ La agenda para esta reunión es la siguiente:
 
 
 ## Beach retreat
-El beach retreat es un retiro empresarial que hacemos 4 fines de semana al año. En estos fines de semana trabajamos en la unión del equipo y nos enfocamos en como hacer mejor a nuestra empresa. Los gastos de comida, transporte y hospedaje son cubiertos por Pernix.
+El beach retreat es un retiro empresarial que hacemos 4 fines de semana al año. En estos fines de semana trabajamos en la unión del equipo y nos enfocamos en cómo mejorar nuestra empresa. Los gastos de comida, transporte y hospedaje son cubiertos por Pernix.
 
 Generalmente este es el programa que seguimos:
 
 * Viernes:
-	* Salida a medio día.
-	* Retrospectiva por la noche con fogata en la playa.
+	* Salida a medio día
+	* Retrospectiva por la noche con fogata en la playa
 * Sabado:
-	* Actividades de unificación de equipo.
+	* Actividades de unificación de equipo
 * Domingo
 	* Tiempo libre para ir a la playa
 	* Regreso por la tarde/noche
 
 	
 ## Open space
-Open space es una actividad que sustituye al TownHall el primer Lunes de cada mes en la hora de almuerzo.
+Open space es una actividad que sustituye al TownHall el primer lunes de cada mes en la hora de almuerzo.
 
-Se trata de una discusión abierta, donde se postulan temas y se discuten entre todas los compañeros de la empresa. Cualquier colaborador puede postular uno o más temas.
+Se trata de una discusión abierta, donde se postulan temas y se discuten entre todos los compañeros de la empresa. Cualquier colaborador puede postular uno o más temas.
 
 ## After office
-Aproximadamente una vez al mes nos vamos a algún bar ó restaurante a compartir después de la oficina. Es un espacio ideal para incorporar y compartir en familia. 
+Aproximadamente una vez al mes nos vamos a algún bar o restaurante a compartir después de la oficina. Es un espacio ideal para incorporarnos y compartir en familia. 
 
 El lugar a donde vamos es seleccionado entre todos los interesados, normalmente es discutido en un TownHall.
 
-## Fun friday
-Aproximadamente 1 viernes cada 3 meses tenemos la tarde libre para hacer actividades divertidas con todas los compañeros de la empresa.
+## Fun Friday
+Aproximadamente 1 viernes cada 3 meses tenemos la tarde libre para hacer actividades divertidas con todos los compañeros de la empresa.
 
 El lugar a donde vamos es seleccionado entre todos los interesados, normalmente es discutido en un TownHall.
 
-## Fiesta de halloween
-El 31 de Octubre hacemos nuestra fiesta de Halloween, tenemos comida y actividades en la oficina. Puedes traer a todos los familiares que quieras.
+## Fiesta de Halloween
+El 31 de Octubre hacemos nuestra fiesta de Halloween. Tenemos comida y actividades en la oficina. Puedes traer a todos los amigos/familiares que quieras.
 
 Creemos en la creatividad, por eso premiamos al mejor disfraz de la noche.
 
-## Fiesta de navidad
-Unas semanas antes de navidad tenemos nuestra Fiesta Navideña, invitamos a todos nuestros colaboradores a cenar.
+## Fiesta de Navidad
+Unas semanas antes de navidad tenemos nuestra Fiesta Navideña. Invitamos a todos nuestros colaboradores a cenar.
