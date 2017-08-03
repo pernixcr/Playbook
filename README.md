@@ -28,3 +28,4 @@ Puede [leer más del significado de cada uno de nuestros valores](/guides/values
 ## Guías
 * [Guía de actividades](/guides/activities.md)
 * [Guía de beneficios](/guides/benefits.md)
+* [Guía de git](/guides/git.md)
